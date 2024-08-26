@@ -1,0 +1,13 @@
+rgbtoyuv filter=lfs diff=lfs merge=lfs -text
+rotate filter=lfs diff=lfs merge=lfs -text
+image_resize_nearest filter=lfs diff=lfs merge=lfs -text
+ov5640_cap_data filter=lfs diff=lfs merge=lfs -text
+rgb2lcd filter=lfs diff=lfs merge=lfs -text
+gaussian_filter filter=lfs diff=lfs merge=lfs -text
+image_resize_bicubic filter=lfs diff=lfs merge=lfs -text
+median_filter filter=lfs diff=lfs merge=lfs -text
+DVI_TX filter=lfs diff=lfs merge=lfs -text
+axi_dynclk_v1_0 filter=lfs diff=lfs merge=lfs -text
+binarynalization filter=lfs diff=lfs merge=lfs -text
+image_resize_bilinear filter=lfs diff=lfs merge=lfs -text
+mean_filter filter=lfs diff=lfs merge=lfs -text
