@@ -11,3 +11,4 @@ axi_dynclk_v1_0 filter=lfs diff=lfs merge=lfs -text
 binarynalization filter=lfs diff=lfs merge=lfs -text
 image_resize_bilinear filter=lfs diff=lfs merge=lfs -text
 mean_filter filter=lfs diff=lfs merge=lfs -text
+Image-process-in-ZYNQ filter=lfs diff=lfs merge=lfs -text
